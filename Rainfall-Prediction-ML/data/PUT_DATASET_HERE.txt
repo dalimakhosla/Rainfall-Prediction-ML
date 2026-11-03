@@ -1,0 +1,1 @@
+Place imd_subdivisional_rainfall_1901_2017.csv in this folder. Do not upload it unless redistribution is permitted.
